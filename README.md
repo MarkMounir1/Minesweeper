@@ -1,2 +1,2 @@
 # Minesweeper
-SFML
+Minesweeper game using sfml-c++ You need first to setup sfml on your VS and you can find how from the sfml site,also add the audio library in addtition to the graphic and the system and other libraries or remove the sounds variables (sound buffers and sounds lines : 179-180) from the code in the functions'variables and in the main lines : 42-46,70-84(remove the count variable(int& count) from the function(59) and the soundscount(160) from the main),234-238,249-253
